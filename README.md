@@ -9,10 +9,14 @@ To extend this project with a hardware component this small KiCAD board was crea
 <br>
 
 <p align="center">
-<img src="./openDTU.jpg" width="480">
+<img src="./openDTU-top.jpg" width="480">
+</p>
+
+<p align="center">
+<img src="./openDTU-bottom.jpg" width="480">
 </p>
 
 ## ToDo's
 
 - Updating Design Rules
-- Generating Gerber files
+
