@@ -63,7 +63,7 @@
         "annular_width": "error",
         "clearance": "error",
         "copper_edge_clearance": "error",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -86,7 +86,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -401,7 +401,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "openDTU.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
