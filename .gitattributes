@@ -1,0 +1,3 @@
+* linguist-vendored
+*.kicad_pcb linguist-vendored=KiCad Layout
+*.kicad_sch linguist-vendored=KiCad Schematic
