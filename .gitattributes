@@ -2,4 +2,6 @@
 * text=auto
 
 *.kicad_pcb linguist-detectable=true
-*.kicad_sch linguist-detectable=true
+
+Libraries/* linguist-detectable=false
+Gerber/* linguist-detectable=false
