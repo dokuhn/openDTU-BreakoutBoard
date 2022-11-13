@@ -8,6 +8,17 @@ To extend this project with a hardware component this small KiCAD board was crea
 
 <br>
 
+The first batch of 10 pieces is partially built and tested. Further tests will follow. Extensions of the board will be maintained in a second branch. 
+
+
+<p align="center">
+<img src="./openDTU.jpeg" width="480">
+</p>
+
+## Renderings
+
+<br>
+
 <p align="center">
 <img src="./openDTU-top.jpg" width="480">
 </p>
