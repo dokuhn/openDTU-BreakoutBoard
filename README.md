@@ -1,4 +1,4 @@
-# openDTU Breakout Booard
+# openDTU Breakout Board
 
 [![GitHub release](https://img.shields.io/github/release/dokuhn/openDTU-BreakoutBoard.svg)](https://GitHub.com/dokuhn/openDTU-BreakoutBoard/releases/) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
