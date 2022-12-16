@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ESP32-NodeMCU_WROOM_32")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP32-NodeMCU_WROOM_32/ESP32-NodeMCU_WROOM_32.pretty")(options "")(descr ""))
+  (lib (name "nRF24L01+PA+LNA_Breakout")(type "KiCad")(uri "${KIPRJMOD}/Libraries/nRF24L01+PA+LNA/nRF24L01+PA+LNA_Breakout.pretty")(options "")(descr ""))
+  (lib (name "OpenDTU_logo")(type "KiCad")(uri "${KIPRJMOD}/Libraries/OpenDTU_logo_KiCad")(options "")(descr ""))
+)
