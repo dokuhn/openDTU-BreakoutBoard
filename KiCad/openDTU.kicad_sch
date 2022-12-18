@@ -1254,7 +1254,6 @@
   )
 
   (bus_alias "ESP32" (members "MOSI" "MISO" "SCK" "CE" "IRQ" "~{CSN}"))
-
   (junction (at 119.634 180.594) (diameter 0) (color 0 0 0 0)
     (uuid 10f037e2-01d5-44ae-8e16-9c27fa1be205)
   )
@@ -2679,7 +2678,7 @@
     (property "Value" "10uF" (id 1) (at 150.622 188.7219 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L" (id 2) (at 147.066 188.087 0)
+    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder" (id 2) (at 147.066 188.087 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 147.066 188.087 0)
@@ -2770,7 +2769,7 @@
     (property "Value" "10uF" (id 1) (at 123.19 188.8489 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L" (id 2) (at 119.634 188.214 0)
+    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder" (id 2) (at 119.634 188.214 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 119.634 188.214 0)
@@ -3202,10 +3201,10 @@
       (reference "C10") (unit 1) (value "1pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/988a5f1f-a1c1-458a-a00b-6b951a8d2dbc"
-      (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L")
+      (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
     (path "/b1904461-1850-4a3b-952c-b4406bca6c6d"
-      (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-1608-10_AVX-L")
+      (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
     (path "/812aa465-9699-4cfc-9d0c-8b6dbbe2e097"
       (reference "C13") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
