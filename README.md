@@ -33,7 +33,7 @@ The first batch of 10 pieces is partially built and tested. Further tests will f
 As described in the previous section, extensions or development stages are maintained in a separate branch. This section is to show exemplarily where the current developments are. Currently a SMD/SMT variant of the board is designed (see picture with the first placement). The SMT will make the board much smaller of course, so it will fit into small cases. All needed components for operation will be on the board. The Programming interface will be connected externally by pin headers, for example. 
 
 <p align="center">
-<img src="./Renderings/openDTU_SMT.jpg" width="480">
+<img src="./Renderings/openDTU_SMT.png" width="480">
 </p>
 
 
