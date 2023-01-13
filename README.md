@@ -36,6 +36,21 @@ As described in the previous section, extensions or development stages are maint
 <img src="./Renderings/openDTU_SMT.png" width="480">
 </p>
 
+##  Hardware you need
+
+### ESP32 board
+
+In principle, the hardware recommended [here](https://github.com/tbnobody/OpenDTU) has been used in this project. Unfortunately there are many different variants, especially in the MCU boards, so that you must be very careful that your oard is pin-compatible with the following figure. 
+
+<p align="center">
+<img src="./Documentation/NodeMCU-32S-Pinout.jpg" width="480">
+</p>
+
+[figure source](https://i0.wp.com/www.teachmemicro.com/wp-content/uploads/2020/06/NodeMCU-32S-Pinout.jpg?ssl=1)
+
+### Capacitor
+
+As you can see in the graphics above, an electrolytic capacitor is placed between the two boards. This capacitor should be as close as possible to the NRF24L01+ radio board. The size of the capacity should not be larger than 100 uF, typically capacity like 10uF or 22uF are recommended. This also corresponds to the typical capacity in the AP1117 datasheets (keep in mind that the noboard capacity of the ESP32 board has to be added). The voltage stability has to be higher than 3.3V, so all common 5V, 6.3V, 6.5V, 10V, 25V or even 50V are more than enough. 
 
 ## Case
 
