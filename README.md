@@ -17,6 +17,13 @@ The first batch of 10 pieces is partially built and tested. Further tests will f
 <img src="./Renderings/openDTU.jpeg" width="480">
 </p>
 
+## Donations
+
+As you can see I am in the process of developing a SMT/SMD variant. To support the first 10-25 prototype boards you are welcome to make a donation. This donation should be used to compensate the material costs for components, boards and consumables (soldering paste, etc.). If you want to support the project or future community projects, you are welcome. 
+
+[![Donate with PayPal](https://raw.githubusercontent.com/dokuhn/openDTU-Breakoutboard/main/Documentation/donation_icon.jpeg)](https://www.paypal.com/donate/?hosted_button_id=9KQNJF4ZW8M5N)
+
+
 
 ## Renderings
 
@@ -40,7 +47,7 @@ As described in the previous section, extensions or development stages are maint
 
 ### ESP32 board
 
-In principle, the hardware recommended [here](https://github.com/tbnobody/OpenDTU) has been used in this project. Unfortunately there are many different variants, especially in the MCU boards, so that you must be very careful that your oard is pin-compatible with the following figure. 
+In principle, the hardware recommended [here](https://github.com/tbnobody/OpenDTU) has been used in this project. Unfortunately there are many different variants, especially in the MCU boards, so that you must be very careful that your board is pin-compatible with the following figure. 
 
 <p align="center">
 <img src="./Documentation/NodeMCU-32S-Pinout.jpg" width="480">
