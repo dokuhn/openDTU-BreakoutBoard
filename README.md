@@ -21,8 +21,7 @@ The first batch of 10 pieces is partially built and tested. Further tests will f
 
 As you can see I am in the process of developing a SMT/SMD variant. To support the first 10-25 prototype boards you are welcome to make a donation. This donation should be used to compensate the material costs for components, boards and consumables (soldering paste, etc.). If you want to support the project or future community projects, you are welcome. 
 
-[![Donate with PayPal](https://raw.githubusercontent.com/dokuhn/openDTU-Breakoutboard/main/Documentation/donation_icon.jpeg)](https://www.paypal.com/donate/?hosted_button_id=9KQNJF4ZW8M5N)
-
+-PayPal: [![Donate with PayPal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=9KQNJF4ZW8M5N)
 
 
 ## Renderings
