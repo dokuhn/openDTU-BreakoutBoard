@@ -19,7 +19,7 @@ The first batch of 10 pieces is partially built and tested. Further tests will f
 
 ## Donations
 
-As you can see I am in the process of developing a SMT/SMD variant. To support the first 10-25 prototype boards you are welcome to make a donation. This donation should be used to compensate the material costs for components, boards and consumables (soldering paste, etc.). If you want to support the project or future community projects, you are welcome. 
+As you can see I am in the process of developing a SMT/SMD variant. To support the first 10-25 prototype boards you are welcome to make a donation. This donation should be used to compensate the material costs for components, boards and consumables (soldering paste, etc.). Through my membership in the [Linux User Group Saar e.V.](https://lugsaar.de/) you support more than just me, you also support our community in similar creative and technical projects in the open source and open hardware domain. 
 
 -PayPal: [![Donate with PayPal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=9KQNJF4ZW8M5N)
 
@@ -36,7 +36,15 @@ As you can see I am in the process of developing a SMT/SMD variant. To support t
 
 ## Development
 
-As described in the previous section, extensions or development stages are maintained in a separate branch. This section is to show exemplarily where the current developments are. Currently a SMD/SMT variant of the board is designed (see picture with the first placement). The SMT will make the board much smaller of course, so it will fit into small cases. All needed components for operation will be on the board. The Programming interface will be connected externally by pin headers, for example. 
+As described in the previous section, extensions or development stages are maintained in a separate branch. This section is to show exemplarily where the current developments are. Currently a SMD/SMT variant of the board is designed (see picture with the first placement). The SMT will make the board much smaller of course, so it will fit into small cases. All needed components for operation will be on the board. 
+
+### New Features:
+
+- All components on just one board
+- Stable voltage supply
+- MicroSD slot with support for a small file system to store e.g. measurement series (CSV or JSON files)
+- USB-C (now more common than microUSB)
+- Option to connect a small (I2C) display
 
 <p align="center">
 <img src="./Renderings/openDTU_SMT.png" width="480">
