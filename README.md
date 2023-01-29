@@ -47,7 +47,7 @@ As described in the previous section, extensions or development stages are maint
 - Option to connect a small (I2C) display
 
 <p align="center">
-<img src="./Renderings/openDTU_SMT.png" width="480">
+<img src="https://github.com/dokuhn/openDTU-BreakoutBoard/blob/dev/Renderings/openDTU-top.jpg" width="480">
 </p>
 
 ##  Hardware you need
