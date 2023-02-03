@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 5.0,
-          "width": 5.0
+          "drill": 2.2,
+          "height": 2.6,
+          "width": 2.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,23 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|136150000|111875000|af836b6b-ff7f-4bf8-8405-b25f7e455598|3865b26e-6ac7-44d7-b1f0-34a5b0fd2066",
-        "clearance|136150000|113225000|e97a637f-7506-4fde-92a8-6f9f92559578|f4f494b1-2d44-4e3a-9a01-ff69b6af11f1",
-        "clearance|137000000|111875000|3865b26e-6ac7-44d7-b1f0-34a5b0fd2066|e3b10b9b-d731-4f20-b720-f837b87aed1e",
-        "clearance|137000000|113225000|2fdd7e13-a289-4cd4-a9e4-1cc4cbb791f5|e97a637f-7506-4fde-92a8-6f9f92559578",
-        "clearance|137850000|111875000|e3b10b9b-d731-4f20-b720-f837b87aed1e|f3b87592-0ac6-488e-b550-7958c0c64ec3",
-        "clearance|137850000|113225000|b3f1174d-f562-4ae8-9d9b-7e0206511a78|2fdd7e13-a289-4cd4-a9e4-1cc4cbb791f5",
-        "clearance|138700000|111875000|f3b87592-0ac6-488e-b550-7958c0c64ec3|ae96b4c3-f917-423d-8552-e605bca65fd1",
-        "clearance|139550000|111875000|ae96b4c3-f917-423d-8552-e605bca65fd1|2fa39d13-a54a-4ae4-bfe2-97ba273e7385",
-        "clearance|139550000|113225000|5331a814-2db4-4769-9d04-3752852cf8fa|7a077daa-c488-4965-b234-02c53a77becf",
-        "clearance|140400000|111875000|2fa39d13-a54a-4ae4-bfe2-97ba273e7385|35cf9515-1ae9-4582-8cb7-1d335d07fb85",
-        "clearance|140400000|113225000|5148af68-eb5e-4030-9696-51eb7ff19b75|5331a814-2db4-4769-9d04-3752852cf8fa",
-        "clearance|141250000|111875000|35cf9515-1ae9-4582-8cb7-1d335d07fb85|90622644-2024-434c-bd04-57b19aab61b4",
-        "clearance|141250000|113225000|f471900f-dcc4-44c3-b465-ae95de95a95b|5148af68-eb5e-4030-9696-51eb7ff19b75",
-        "silk_over_copper|134105000|118000000|0562869f-e335-4fb7-971e-91648306e48b|c60e8f9c-d4b8-4ee7-89b9-3434b49c479a",
-        "silk_over_copper|143295000|118000000|0562869f-e335-4fb7-971e-91648306e48b|625bd46b-a101-4ebf-a4a6-881ff00f136f"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
